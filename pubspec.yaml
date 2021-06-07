@@ -1,5 +1,5 @@
 name: acidtime
-description: Get the current time when on acid.
+description: Get the current time in an eccentric way.
 publish_to: 'none'
 version: 1.0.0+1
 environment:
