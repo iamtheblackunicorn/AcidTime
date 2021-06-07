@@ -4,7 +4,7 @@
 
 # ACID TIME :rainbow: :pill:
 
-*Get the current time when on acid.* :rainbow: :pill:
+*Get the current time in an eccentric way.* :rainbow: :pill:
 
 ## About :books:
 
